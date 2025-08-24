@@ -1,0 +1,5 @@
+{
+  "name": "React Pokedex",
+  "description": "A modern, responsive Pokedex application built with React, TypeScript, and Tailwind CSS. Browse, search, and view detailed information about your favorite Pokemon.",
+  "requestFramePermissions": []
+}
