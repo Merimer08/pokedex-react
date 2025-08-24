@@ -279,12 +279,11 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 📞 **Contacto**
 
-- **GitHub**: [@tu-usuario](https://github.com/tu-usuario)
-- **LinkedIn**: [Tu Nombre](https://linkedin.com/in/tu-perfil)
-- **Portfolio**: [tu-portfolio.com](https://tu-portfolio.com)
+- **GitHub**: [@Merimer98](https://github.com/Merimer08)
+- **LinkedIn**: [marialolu](https://linkedin.com/in/marialolu/)
+- **Portfolio**: [tu-portfolio.com](https://merimer08.github.io/)
 
 ---
 
 ⭐ **Si te gusta este proyecto, ¡dale una estrella en GitHub!**
 
-🔄 **Última actualización**: Diciembre 2024
